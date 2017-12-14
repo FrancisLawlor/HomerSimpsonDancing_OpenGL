@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>eye.jpg</file>
+        <file>comics.jpg</file>
+        <file>texture.jpg</file>
+        <file>blacktexture.png</file>
+        <file>bluetexture.png</file>
+        <file>dancefloor.jpg</file>
+        <file>discoball.jpg</file>
+        <file>duff.jpg</file>
+        <file>homerears.png</file>
+        <file>homerabdomen.png</file>
+        <file>homereye.png</file>
+        <file>homerhair.png</file>
+        <file>homerhand.png</file>
+        <file>homermouth.png</file>
+        <file>lightbeam.jpg</file>
+        <file>yellowtexture.png</file>
+        <file>whitetexture.png</file>
+    </qresource>
+</RCC>
